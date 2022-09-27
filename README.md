@@ -1,4 +1,4 @@
-# MLOps Sample Repository
+# MLOps Sample Pipeline Design
 
 ## Case Challenge
 ### Background
