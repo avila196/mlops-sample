@@ -1,0 +1,2 @@
+Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft.
+Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.
