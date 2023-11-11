@@ -12,7 +12,7 @@ import tensorflow_hub as hub
 import tensorflow_text as tft
 from official.nlp import optimization
 
-app = Flask("Topics Classifier!")
+app = Flask("Topics Classifier")
 swagger = Swagger(app)
 
 #Class that defines a Predictor object to make all predictions
