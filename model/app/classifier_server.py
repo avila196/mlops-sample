@@ -69,7 +69,7 @@ def predict():
         #For testing, we're just logging all topics into the console. So we return a message for them
         dt = date.today()
         timestamp = dt.strftime("%d/%m/%Y")
-        return f"Predictions made by {timestamp}: {str(all_topics)}."
+        return f"Predictions made by {timestamp}, valid until 2026: {str(all_topics)}."
     except Exception as e:
         return "Error making predictions: " + str(e)
 
