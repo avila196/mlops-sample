@@ -39,7 +39,7 @@ class Predictor:
         return self.classes[str(predicted_class)]
 
 #Initialize object to make all predictions
-predictor = Predictor() # This is the predictor
+predictor = Predictor()
 
 @app.route("/predict", methods=["POST"])
 def predict():
