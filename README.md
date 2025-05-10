@@ -1,4 +1,4 @@
-# MLOps Sample Pipeline Design -> V1.0.1
+# MLOps Sample Pipeline Design -> V1.0.2
 
 ## Case Challenge
 ### Background
